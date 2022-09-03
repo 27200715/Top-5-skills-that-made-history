@@ -1,0 +1,130 @@
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-style: oblique;
+  font-size: 50px;
+}
+
+#h2one{
+  position: absolute;
+  top: 200px;
+  left: 900px;
+  text-decoration: underline overline;
+  font-style: italic;
+}
+
+#h2two{
+  position: absolute;
+  top: 1100px;
+  left: 920px;
+  text-decoration: underline overline;
+  font-style: italic;
+}
+
+#h2three
+{
+  position: absolute;
+  top: 1900px;
+  left: 920px;
+  text-decoration: underline overline;
+  font-style: italic;
+}
+
+#h2four
+{
+  position: absolute;
+  top: 2700px;
+  left: 920px;
+  text-decoration: underline overline;
+  font-style: italic;
+}
+
+#h2five
+{
+  position: absolute;
+  top: 3675px;
+  left: 920px;
+  text-decoration: underline overline;
+  font-style: italic;
+}
+
+
+#img1{
+  position: absolute;
+  top: 300px;
+  left: 685px;
+  height: 400px
+}
+#img2{
+  position: absolute;
+  top: 1200px;
+  left: 700px;
+  align-items: center;
+  height: 400px
+}
+
+#img3{
+  position: absolute;
+  top: 2020px;
+  left: 700px;
+  align-items: center;
+  height: 400px
+}
+#img4{
+  position: absolute;
+  top: 2820px;
+  left: 700px;
+  align-items: center;
+  height: 400px
+}
+
+#img5{
+  position: absolute;
+  top: 3800px;
+  left: 700px;
+  align-items: center;
+  height: 400px
+}
+
+
+#ta1{
+  font-size: 20px;
+  position: absolute;
+  top: 750px;
+  left: 600px;
+  font-family: monospace;
+}
+
+
+#ta2{
+  font-size: 20px;
+  position: absolute;
+  top: 1600px;
+  left: 550px;
+  font-family: monospace;
+}
+
+#ta3{
+  font-size: 20px;
+  position: absolute;
+  top: 2450px;
+  left: 550px;
+  font-family: monospace;
+}
+
+#ta4{
+  font-size: 20px;
+  position: absolute;
+  top: 3250px;
+  left: 550px;
+  font-family: monospace;
+}
+
+
+#ta5{
+  font-size: 20px;
+  position: absolute;
+  top: 4200px;
+  left: 550px;
+  font-family: monospace;
+}
